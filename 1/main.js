@@ -1,8 +1,8 @@
 function name(a, b) {
   if (a === b) {
-    console.log('ტოლია');
+    return ('ტოლია');
   } else {
-    console.log('არ არის ტოლი');
+    return ('არ არის ტოლი');
   }
 }
 
